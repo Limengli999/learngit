@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 This is a stupid man!
-=======
 Hello World!
->>>>>>> dev
